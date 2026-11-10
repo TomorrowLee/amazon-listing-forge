@@ -1,0 +1,4 @@
+interface:
+  display_name: "Listing Forge · 亚马逊文案工坊"
+  short_description: "以独立虚构洗澡刷演示事实驱动的亚马逊文案、FAQ、图需和上架检查"
+  default_prompt: "使用 $amazon-listing-forge，依据本次明确提供的资料生成 Listing、FAQ 与图片需求，缺失信息列待确认。"
